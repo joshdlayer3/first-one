@@ -33,8 +33,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1920" />
-    <option name="y" value="23" />
+    <option name="x" value="-960" />
+    <option name="y" value="551" />
     <option name="width" value="960" />
     <option name="height" value="529" />
   </component>
@@ -86,15 +86,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1543491104505</updated>
-      <workItem from="1543491105783" duration="880000" />
+      <workItem from="1543491105783" duration="1135000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="880000" />
+    <option name="totallyTimeSpent" value="1135000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1920" y="23" width="960" height="529" extended-state="0" />
+    <frame x="-960" y="551" width="960" height="529" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
